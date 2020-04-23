@@ -30,10 +30,9 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=E5DA1F38-365A-4508-A7AF-C55A64AD3D2F
+ManagedProjectGUID=6B631F93-B32B-4DDC-8139-A290BDC34C67
 VaultGUID=31343C8E-0276-4B59-AEA5-8509415642CD
 ReleaseVaultName=Beta4 Smoke
-ItemGUID=E5DA1F38-365A-4508-A7AF-C55A64AD3D2F
 IncludeDesignInRelease=0
 
 [Preferences]
